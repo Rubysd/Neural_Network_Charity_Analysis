@@ -190,6 +190,6 @@ Changing the activation functions: tried linear, tanh, sigmoid for a combination
 
 # SUMMARY
 
-Our Analysis and Deep Learning Model Results include a recommendation for how a different model could solve this classification and results.
+The Analysis and Deep Learning Model Results include a recommendation for how a different model could solve this classification and results.
 
 
